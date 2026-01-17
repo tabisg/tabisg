@@ -10,7 +10,7 @@
 ---
 
 ### 📖 About Me
-I am a passionate developer based in **India** with a deep love for problem-solving. I specialize in leveraging **Python** to build intelligent systems and extract meaningful insights from complex datasets.
+I am a passionate developer based in **India** specializing in leveraging **Python** to build intelligent systems and extract meaningful insights from datasets.
 
 - 🌍  I'm based in **India**
 - 🧠  Currently mastering **Python with AI/ML**
@@ -29,7 +29,7 @@ I am a passionate developer based in **India** with a deep love for problem-solv
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-**Core Development & Databases**
+**Core Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
